@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @susanzzz123
 - 👀 I’m interested in developing new programming skills and working on fun projects!
 - 🌱 I’m currently learning java, python, html/css, and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some cool projects!
 - 📫 How to reach me: szhang25@seas.upenn.edu
 
 <!---
