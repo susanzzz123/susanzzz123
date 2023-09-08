@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susanzzz123
 - 👀 I’m interested in developing new skills and working on fun projects!
-- 🌱 I’m currently learning java, python, html/css, and javascript/typescript
+- 🌱 I’m currently learning python, c, and javascript/typescript
 - 📫 How to reach me: szhang25@seas.upenn.edu
 
 <!---
